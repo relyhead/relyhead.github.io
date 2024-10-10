@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://relyhead.github.io/sitemap.html.gz
+Sitemap: https://relyhead.github.io/app/sitemap.html.gz
+Sitemap: https://relyhead.github.io/assets/sitemap.html.gz
+Sitemap: https://relyhead.github.io/css/sitemap.html.gz
+Sitemap: https://relyhead.github.io/includes/sitemap.html.gz
+Sitemap: https://relyhead.github.io/item/sitemap.html.gz
+Sitemap: https://relyhead.github.io/src/sitemap.html.gz
